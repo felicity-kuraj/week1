@@ -1,7 +1,7 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "felicity_"
+      "X-Author": "felicity_",
       "Access-Control-Allow-Origin": "*"
     }
   }
